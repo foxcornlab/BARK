@@ -1,0 +1,5 @@
+# PowerShell / editor noise
+*.log
+.vscode/
+.idea/
+*~
